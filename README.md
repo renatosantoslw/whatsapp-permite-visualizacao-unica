@@ -18,4 +18,8 @@ Extensão para Chrome, Edge, OperaGX que permite a exibição de mensagens do ti
 > [!NOTE]
 A visualização única não pode ser ignorada quando o remetente está enviando uma mídia de visualização única do WA WEB/Desktop, só funciona quando o remetente está enviando uma mídia de visualização única do WA Mobile App.
 
-- [Creditos](https://github.com/newfebriwisnu/WhatsApp-Bypass-Once-View)
+## Créditos
+
+- **Autor do Projeto:** [Febri Wisnu](https://github.com/newfebriwisnu)
+- **Origem do Arquivo Original:** Projeto inspirado por [WhatsApp-Bypass-Once-View](https://github.com/newfebriwisnu/WhatsApp-Bypass-Once-View)
+
